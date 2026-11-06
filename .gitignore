@@ -1,0 +1,4 @@
+yolov8n.pt
+logs/
+__pycache__/
+*.csv
